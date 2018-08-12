@@ -1,6 +1,6 @@
 Estes dois programas foram feitos em Python com o objetivo de facilitar dois dos serviços massantes que existem dentro do INCRA-GO em relação ao sistema Sipra.
 
-1 - Para executar estes programas você precisará estar autenticado no Sipra, e possuir um conhecimento de Python
+1 - Para executar estes programas você precisará estar dentro da Rede, (trabalhando no incra, ter acesso e estar autenticado no Sipra, e possuir um conhecimento de Python
 
 com o sistema atual em 12/2018 não é possível retirar vários relatórios de tela. (RB e ESPELHO)
 
