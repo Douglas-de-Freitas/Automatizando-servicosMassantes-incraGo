@@ -31,4 +31,6 @@ No caso Das RB's o serviço também é muito massante, pois, somente existe a po
 Então nesse caso faça o mesmo com o (arquivo.txt) da pasta Imprimir RB, basta colocar os códigos dos assentamentos que deseja imprimir, e ir almoçar.
 
 Obs: não se esqueça dos sleeps se sua conexão não estiver boa.
+
+Espero ter ajudado :)
  
